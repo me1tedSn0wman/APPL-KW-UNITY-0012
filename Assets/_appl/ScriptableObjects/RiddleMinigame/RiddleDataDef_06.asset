@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1d7f0e4712aab4db631dba24fde8ba, type: 3}
+  m_Name: RiddleDataDef_06
+  m_EditorClassIdentifier: 
+  riddleWorld: "\u0427\u0430\u0439\u043A\u043E\u0432\u0441\u043A\u0438\u0439"
+  riddleImage: {fileID: 21300000, guid: c9bd0aa8346bc7c4486fab57a55f5b7b, type: 3}
